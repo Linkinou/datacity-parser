@@ -46,66 +46,6 @@ build/
 *.log
 *.scc
 
-# Visual C++ cache files
-ipch/
-*.aps
-*.ncb
-*.opensdf
-*.sdf
-*.cachefile
-
-# Visual Studio profiler
-*.psess
-*.vsp
-*.vspx
-
-# Guidance Automation Toolkit
-*.gpState
-
-# ReSharper is a .NET coding add-in
-_ReSharper*/
-*.[Rr]e[Ss]harper
-
-# TeamCity is a build add-in
-_TeamCity*
-
-# DotCover is a Code Coverage Tool
-*.dotCover
-
-# NCrunch
-*.ncrunch*
-.*crunch*.local.xml
-
-# Installshield output folder
-[Ee]xpress/
-
-# DocProject is a documentation generator add-in
-DocProject/buildhelp/
-DocProject/Help/*.HxT
-DocProject/Help/*.HxC
-DocProject/Help/*.hhc
-DocProject/Help/*.hhk
-DocProject/Help/*.hhp
-DocProject/Help/Html2
-DocProject/Help/html
-
-# Click-Once directory
-publish/
-
-# Publish Web Output
-*.Publish.xml
-
-# NuGet Packages Directory
-## TODO: If you have NuGet Package Restore enabled, uncomment the next line
-#packages/
-
-# Windows Azure Build Output
-csx
-*.build.csdef
-
-# Windows Store app package directory
-AppPackages/
-
 # Others
 sql/
 *.Cache
@@ -118,8 +58,6 @@ ClientBin/
 *.pfx
 *.publishsettings
 
-# RIA/Silverlight projects
-Generated_Code/
 
 # Backup & report files from converting an old project file to a newer
 # Visual Studio version. Backup files are not needed, because we have git ;-)
@@ -131,12 +69,6 @@ UpgradeLog*.htm
 # SQL Server files
 App_Data/*.mdf
 App_Data/*.ldf
-
-
-#LightSwitch generated files
-GeneratedArtifacts/
-_Pvt_Extensions/
-ModelManifest.xml
 
 # =========================
 # Windows detritus
@@ -154,3 +86,12 @@ $RECYCLE.BIN/
 
 # Mac desktop service store files
 .DS_Store
+
+# NodeJS project
+.njsproj
+
+# =========================
+# Nodejs
+# =========================
+
+node_modules/
