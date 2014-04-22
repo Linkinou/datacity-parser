@@ -1,5 +1,5 @@
 {
-  "name": "generic-parser",
+  "name": "genericparser",
   "description": "Parse many different files such as XML, HTTP, CSV, Open Office documents",
   "version": "0.0.1",
   "author": {
