@@ -115,6 +115,66 @@ describe("Csv parser",function(){
             stream.write(JSON.stringify(result));
         });
     });
+    it ("Should test Test1.csv file (should work)",function(done){
+        var stream = fs.createWriteStream(__dirname+"/files/output/Test1_csv.json");
+        GenericParser("csv").parse(__dirname + "/files/input/gestion_erreur/Test1.csv", true, function(result, index) {
+            if (index == 1)
+                stream.write("[");
+            else if (result == null) {
+                stream.write("]");
+                done();
+                return;
+            }
+            else
+                stream.write(",");
+            stream.write(JSON.stringify(result));
+        });
+    });
+    it ("Should test Test2.csv file (should fail)",function(done){
+        var stream = fs.createWriteStream(__dirname+"/files/output/Test2_csv.json");
+        GenericParser("csv").parse(__dirname + "/files/input/gestion_erreur/Test2.csv", true, function( result, index) {
+            if (index == 1)
+                stream.write("[");
+            else if (result == null) {
+                stream.write("]");
+                done();
+                return;
+            }
+            else
+                stream.write(",");
+            stream.write(JSON.stringify(result));
+        });
+    });
+    it ("Should test Test3.csv file (should fail)",function(done){
+        var stream = fs.createWriteStream(__dirname+"/files/output/Test3_csv.json");
+        GenericParser("csv").parse(__dirname + "/files/input/gestion_erreur/Test3.csv", true, function( result, index) {
+            if (index == 1)
+                stream.write("[");
+            else if (result == null) {
+                stream.write("]");
+                done();
+                return;
+            }
+            else
+                stream.write(",");
+            stream.write(JSON.stringify(result));
+        });
+    });
+    it ("Should test Test4.csv1 file (should fail)",function(done){
+        var stream = fs.createWriteStream(__dirname+"/files/output/Test4_csv.json");
+        GenericParser("csv").parse(__dirname + "/files/input/gestion_erreur/Test4.csv1", true, function(result, index) {
+            if (index == 1)
+                stream.write("[");
+            else if (result == null) {
+                stream.write("]");
+                done();
+                return;
+            }
+            else
+                stream.write(",");
+            stream.write(JSON.stringify(result));
+        });
+    });
 });
 
 

@@ -1,0 +1,321 @@
+F1	Department	Division	Call_Type	2009_February	2009_March	2009_April		2009_June	2009_July		2009_September	2009_October	2009_November	2009_December	2010_January	2010_February	2010_March	2010_April	2010_May	2010_June	2010_July	2010_August	2010_September	2010_October	2010_November	2010_December	2011_January	2011_February	2011_March	2011_April	2011_May	2011_June	2011_July	2011_August	2011_September	2011_October	2011_November	2011_December	2012_January	2012_February	2012_March	2012_April	2012_May	2012_June	2012_July	2012_August	2012_September	2012_October	2012_November	2012_December	2013_January	2013_February	2013_March	2013_April	2013_May	2013_June	2013_July	2013_August	2013_September	2013_October	2013_November	2013_December	2014_January	2014_February	F66
+	Business Planning & Services	311 Contact Centre	311 Change Request	3	11		8	32	16	6	6	10	2	4	2	2	7	7	5	12	6	9	17	17	17	19	16	31	13	9	10																																		
+	Business Planning & Services	311 Contact Centre	311 Configuration Change Request				1	2						1																																																			
+	Business Planning & Services	311 Contact Centre	311 CoV Webpage Feedback Form	5	9	6	6	5	9	1			2		2		7	4	1	4	6	3	6	7	6	5	8	14	10	13	26	12	11	15	9	14	15	10	16	16	15	10	8	8	8	130	54	54	46	18	38	26	17	34	13	21	25	29	21	16	16	12	27	13	
+	Business Planning & Services	311 Contact Centre	311 System Access														20	1	1		1	2	1			1	3	4	1	1	2						1																												
+	Business Planning & Services	311 Contact Centre	Citizen Feedback																																							84	584	595	637	694	730	638	662	633	832	567	541	709	835	883	1074	916	713	734	811	743	738	580	
+	Business Planning & Services	311 Contact Centre	Citizen Volunteering															6	1	1	1		1			1		4	1	6		1				1				2			1	1	1	12																			
+	Business Planning & Services	311 Contact Centre	Escalate Question																																																								23	33	19	14	33	38	
+	Business Planning & Services	311 Contact Centre	Knowledge Escalation				1																				3																																						
+	Business Planning & Services	311 Contact Centre	Online General Inquiry and Comment Form																																											123	14	18	1																
+	Business Planning & Services	311 Contact Centre	ZZ OLD - 311 Contact Centre Feedback											2																																																			
+	Business Planning & Services	311 Contact Centre	ZZ OLD - Citizen Complaint	8	17	13	26	125	239	154	170	184	225	219	203	189	171	144	160	259	258	234	230	240	304	298	291	254	239	244	235	296	333	371	327	310	472	473	453	302	328	280																							
+	Business Planning & Services	311 Contact Centre	ZZ OLD - Citizen Compliment	6	1	1	5	9	17	18	20	9	18	17	20	18	20	14	17	32	20	29	31	29	37	36	42	40	31	39	43	91	36	52	40	41	50	54	62	53	52	29																							
+	Business Planning & Services	311 Contact Centre	ZZ OLD - Citizen Opinion	9	2	4	1	3	43	24	42	26	57	57	47	31	44	29	39	46	59	40	30	49	45	42	48	36	23	36	32	130	86	76	58	45	115	83	74	68	53	65																							
+	Business Planning & Services	311 Contact Centre - Disaster Response	Disaster Response - Family Reunification																																																			7	2	4		2	6						
+	Business Planning & Services	311 Contact Centre - Disaster Response	Disaster Response - Information Request																																																			54	1	34		2	11	1				4	
+	Business Planning & Services	311 Contact Centre - Feedback	City Clerks																																													1																	
+	Business Planning & Services	311 Contact Centre - Feedback	Engineering Services									1																																																					
+	Business Planning & Services	311 Contact Centre - Feedback	Financial Services											1																																																			
+	Business Planning & Services	311 Contact Centre - Feedback	Mayor and City Council													1																																																	
+	Business Planning & Services	311 Contact Centre - Feedback	Other							1					2			1	2				1	1																																									
+	Business Planning & Services	311 Contact Centre - Hot Topics	Burrard Feedback						83	15	12	5	4	5	3	1	3		2	5	2																																												
+	CIO	Help Centre	Found IT Equipment SR																				4	1		1	1	1	1			2		3			1	2	1	2				6	1			1	3	1	1	1	1	2	1	2	1			3	2			2	
+	City Administration	Council Support	Council Expenses Escalation Case																											7																						1												2	
+	City Administration	Elections	Campaign Organizer Case																															5	1																														
+	City Administration	Elections	Candidate Case																															3	2	1																													
+	City Administration	Elections	Election General Concerns			1			1				1											5		4	2	3	1	7	7	14	8	9	1		50	22		3	4	2	1		2	2	1	1													5	3	4	9	
+	City Administration	Elections	Elector Organization Case																															2	1																														
+	City Administration	Human Resources	Emergency Management Question SR								2	2	1		1			1																																															
+	City Administration	Human Resources	HR Employment Application SR																		14	4	9	14	7	4	5	22	13	11	8	16	32	15	10	8	20	2	5	3	4	8	17	12																					
+	City Managers	OEM Office of Emergency Management	OEM EOC Activations																																	34	70																												
+	City Managers	Office of City Manager	Action Items																																																						1			1				4	
+	CSG - Cultural Services	Civic Theatres	Civic Theatres Comment SR																	11																																						1		1				1	
+	CSG - Cultural Services	Civic Theatres	Civic Theatres Complaint SR																																																									2				2	
+	CSG - Cultural Services	Civic Theatres	Civic Theatres Compliment SR																	2		1				1								1					1					1	1						3				1					1				1	
+	CSG - Cultural Services	Civic Theatres	Civic Theatres Lost & Found SR																	19	1	1		4	1	4	2	1		1	7	1		1		4		3	1	2	2	1	3	2	3		2	2	3	1	2	2	7	3	2	2			2	7	2	5	2	8	
+	CSG - Development Services	Enquiry Centre	Tree Removal Case																																							4	2	3	4	3	5			2	1	2	1		1	2	4	2	4	4	1	1	1	3	
+	CSG - Inspections	Building	Building Asbestos Hazard Demolition Complaint Case																																				4	1	1	2	1			4	4	2	1		3	2			1		2		1						
+	CSG - Inspections	Building	Building Inspection Cancellation Case																			59	42	42	24	35	30	26	31	24	28	30	29	42	28	33	33	25	20	30	30	34	41	32	42	37	28	26	29	42	49	31	28	19	37	27	35	44	33	34	33	29	32	32	
+	CSG - Inspections	Building	Building Inspection Complaint Case															21	43	55	83	113	110	66	59	72	74	78	96	81	99	108	108	121	122	101	76	63	53	87	94	89	91	102	129	140	138	99	77	53	91	85	95	97	100	107	139	129	125	97	94	60	63	64	
+	CSG - Inspections	Building	Building Inspection Scheduling Concern Case																																																					6	9	3	5	3	2	3	1		
+	CSG - Inspections	Building	ZZ OLD - Complaints - OLD					24	15																																																								
+	CSG - Inspections	Electrical	Electrical Inspection Cancellation Case																			6	15	6	12	12	6	12	11	15	10	13	7	10	9	18	8	14	4	11	10	10	10	13	11	16	15	12	7	8	7	10	4	4	8	13	29	13	8	20	19	14	19	9	
+	CSG - Inspections	Electrical	Electrical Inspection Complaint Case					2		3	1	2	4	1	3	2	3		2	2	3	6	2	3		1	1	5	2	4	5	4	2	8	8	5	5	3	6	4	3	6	6	5	9	7	6	4	1	4	7	3	2	2	2	1	6	6	11	7	2	5	5	5	
+	CSG - Inspections	Electrical	Electrical Inspection Scheduling Concern Case																																																					1									
+	CSG - Inspections	Environmental Protection	EP Asbestos Hazard Demolition Complaint Case																																				7	5	1	1	4	2	2	1	3		1	1		1	3	3	2	2	1	3	1	1		1		2	
+	CSG - Inspections	Environmental Protection	EP Construction Sediment or Mud Complaint Case																		9	3	2	1		4	2	2	7	7	2	5	3	7	3	2	3	7	4	7	9	4	4	10	1	3	2	2	8	5	5	6	3	6	2	1	4	1	1	6	1	2	3	5	
+	CSG - Inspections	Environmental Protection	EP General Environmental Complaint Case																		17	17	13	10	5	6	13	10	5	5	11	14	17	19	7	17	2	4	7	11	19	6	23	12	18	27	18	12	14	7	10	6	11	12	13	21	23	19	16	12	9	4	4	8	
+	CSG - Inspections	Environmental Protection	EP General Inquiry Case																		26	11	9	17	16	5	10	20	27	19	19	6	21	16	24	10	14	9	11	15	16	20	15	19	29	24	19	19	22	9	11	17	19	24	21	13	15	24	9	19	15	7	11	14	
+	CSG - Inspections	Environmental Protection	EP Hazardous Materials Demolition Complaint Case																		5			1			2			2	3		1	2	2				7	1							1							1		2	2								
+	CSG - Inspections	Environmental Protection	EP Spill or Leak Complaint Case																		2	4	7	4	7	2	5	3	3	4	5	9	10	10	5	4	8	2	6	9	9	5	5	5	5	8	3	4	16	10	9	6	3	11	10	5	5	3	4	7	4	7	1	2	
+	CSG - Inspections	Inspection	Premise Report Case																																							4	1		1	1	1	7	3		1		1	4	6	3	8	1	5	6	2	1		1	
+	CSG - Inspections	Plumbing and Gas	Complaints - OLD					3			6																																																						
+	CSG - Inspections	Plumbing and Gas	Plumbing & Gas Inspection Scheduling Concern Case																																																					1	1	3		1	1	3	1		
+	CSG - Inspections	Plumbing and Gas	Plumbing and Gas Inspection Cancellation Case																			24	21	18	44	32	15	14	19	18	12	22	23	44	25	23	23	23	20	29	25	16	41	25	18	16	19	22	33	23	27	18	28	13	29	23	35	42	22	32	22	24	18	26	
+	CSG - Inspections	Plumbing and Gas	Plumbing and Gas Inspection Complaint Case															5	2	1	6	3	21	4	3	2	2	7	6	9	5	3	1	3	6	1	6	4	10	6	3	3	2	8	5	9	7	6	7	6	23	6	3	8	3	7	12	6	8	10	3	1	4	9	
+	CSG - Inspections	Property Use	PUI General Inquiry Case																		30	37	29	22	21	16	18	29	29	10	37	38	34	52	21	23	16	20	26	11	15	20	29	25	26	26	31	33	12	13	15	11	16	24	28	35	25	23	27	25	21	20	35	19	
+	CSG - Inspections	Property Use	PUI Graffiti on Private Property Complaint Case																		24	38	43	20	28	20	38	36	47	50	36	34	33	76	29	46	40	54	54	71	63	65	62	61	41	40	44	32	44	46	91	61	92	83	77	93	59	49	79	157	169	93	113	119	
+	CSG - Inspections	Property Use	PUI Noise Complaint Case																		81	180	122	105	63	78	68	53	61	90	88	144	172	194	107	90	73	67	62	76	83	94	99	116	171	203	170	140	101	82	79	93	123	152	180	187	286	226	199	147	129	106	102	97	
+	CSG - Inspections	Property Use	PUI Noise General Inquiry Case																		17	18	11	10	7	8	20	10	19	15	12	19	25	14	11	13	7	11	13	13	10	8	19	14	28	17	18	20	8	2	11	14	14	15	24	28	33	30	14	22	4	10	7	17	
+	CSG - Inspections	Property Use	PUI PNE Area Parking Complaint Case																		6	17	7	1				1			2		1	12	4	1			2						1	10	3										9	2							
+	CSG - Inspections	Property Use	PUI PNE Lighting Complaint Case																																								1																						
+	CSG - Inspections	Property Use	PUI PNE Noise Complaint Case																																								4	3	8	7		3							2		2	4	4	3		1		1	
+	CSG - Inspections	Property Use	PUI Property Use Complaint Case																		142	275	191	177	135	123	178	135	199	178	220	300	304	267	221	163	154	123	154	144	176	167	326	261	251	272	240	187	157	95	163	171	171	209	281	292	341	267	224	194	175	137	168	179	
+	CSG - Inspections	Property Use	PUI Tenant Heat or Hot Water Complaint Case																		11	6	12	6	12	7	5	5	4	3	7	5	2	5	1	9	14	9	12	6	3	4	4	5	1	3	5	3	8	9	9	7	5	7	2	1	4		6	13	4	18	8	17	
+	CSG - Inspections	Property Use	ZZ OLD - PUI Hoarding Inquiry Case																																		3	2	3	4			1	1																					
+	CSG - Inspections	Property Use	ZZ OLD - PUI Hoarding Task Force Inquiry Case																																		1	2	3		4	2	2	3																					
+	CSG - Inspections	Reception	PRISM Outage Case					5	1		1	1	1						1									2		1	1			1	1										1			1							1	36	3		1	1			1	1	
+	CSG - Inspections	Reception	Reception After Hours Inquiry Case					19	27	27	39	37	41	21	19	29	22	31	36	43	41	15	4	2	2	5	2	1	2	4	2	2		2	2	1	2	1	5	2	1	1	3	2		3	3			2	2		3	2	1	2	1	2	1					1	
+	CSG - Inspections	Sewer Separation	Complaints - OLD					1																																																									
+	CSG - Inspections	Sewer Separation	Sewer Separation Inspection Cancellation Case																			1	1	1	1	5			1			4		1	1	2	1	1	2	1		1	2	6			2	1	2	1		2				1	3	2	1	1	2		2		
+	CSG - Inspections	Sewer Separation	Sewer Separation Inspection Complaint Case															3		1			1							3				2					2			1			1						1									2				2	
+	CSG - Inspections	Sewer Separation	Sewer Separation Inspection Schedulng Concern Case																																																					1		1							
+	CSG - Licenses	Animal Control	Animal Complaint - Emergency Case																																																						8	44	23	12	12	11	9	11	
+	CSG - Licenses	Animal Control	Animal Complaint - Non-Emergency Case								25	140	102	114	154	157	178	217	221	208	230	268	184	169	138	131	144	139	207	180	237	241	312	300	240	166	191	150	153	205	245	263	301	228	322	357	271	198	205	130	185	156	241	291	291	305	365	310	271	230	215	181	171	191	
+	CSG - Licenses	Animal Control	Animal Control General Inquiry Case								40	76	30	37	28	30	43	45	34	43	43	32	45	32	31	42	33	34	47	57	84	47	67	60	79	55	54	53	58	57	68	54	111	68	101	120	99	81	68	52	82	57	76	87	84	72	98	111	92	152	85	65	88	76	
+	CSG - Licenses	Animal Control	Animal Cremation Case								3	1	1		3	4	3	4	2	3	3		5	6	3	7	4	7	3		3	2	4	5	5	4	3		2	2	7	1	3	3	3	3	8	3	4	4	2	7	5	2	3	3	18	11	5	5	8	9	5	1	
+	CSG - Licenses	Animal Control	Backyard Chicken Complaint - Non-Emergency Case																	3	1	2	2		5	5	3	1	1		2	3	2	1	4	3	3		1	2	4	4	3	4	5	2	4	2	3	1	1	3	3	5	5	3	5	5	3	4	3	3	1	2	
+	CSG - Licenses	Animal Control	Dead Animal Pickup Case								22	94	62	40	53	51	70	53	94	108	121	135	102	115	86	53	55	73	77	59	81	90	129	144	115	78	70	44	61	84	69	66	89	121	146	213	153	151	99	51	53	63	77	91	123	148	195	202	164	127	98	69	82	78	
+	CSG - Licenses	Animal Control	Dog Licence Changes Case								7	130	155	98	59	42	113	193	195	110	100	43	116	148	231	122	101	57	144	134	195	71	92	44	157	218	158	112	80	65	190	67	337	81	52	155	269	116	168	79	86	135	151	172	224	98	107	64	133	251	201	148	136	67	
+	CSG - Licenses	Animal Control	Dog Licence Payment Refund Case																																																						5	1	1		1			5	
+	CSG - Licenses	Animal Control	Donation Case																																																						3	2	2	3		1		4	
+	CSG - Licenses	Animal Control	Emergency Dead Animal Pickup Case																																																						4	20	31	15	12	6	20	9	
+	CSG - Licenses	Animal Control	File Information Case								4	2														1	1	1		3			1	2			1	1	1	1	2	1	1	1	1	3			1	1			1	1			1	2		2	1	1			
+	CSG - Licenses	Animal Control	Holding Stray Case								10	54	47	46	41	49	52	64	78	76	106	84	71	75	51	45	41	60	59	66	90	76	75	91	68	60	43	60	52	42	54	62	74	66	74	72	67	64	69	43	37	27	85	68	72	85	77	64	60	52	35	37	31	42	
+	CSG - Licenses	Animal Control	Lost Pets Case																													2	24	27	15	24	23	16	16	13	15	21	23	21	41	26	32	25	18	16	13	9	25	30	20	26	32	135	117	99	71	77	57	59	
+	CSG - Licenses	Animal Control	Lost Tag Case																																																						6	69	33	38	39	37	52	43	
+	CSG - Licenses	Animal Control	New Dog Licence Case																																													15	3	1	6	2	6	4	4	4	5	1	9	4	1	2	4	7	
+	CSG - Licenses	Animal Control	Ticket Inquiries and Complaints Case								1		1	3	3	4	4	2	3	1	2	2	2	2			4		1	1	2		7	5	3	3		3	3	5	4	7		3	3	2	1			2	2		1	3	1	2	6	7	1	3	2		5	6	
+	CSG - Licenses	Animal Control	Urgent Holding Stray Case																																																						5	37	30	36	21	12	13	24	
+	CSG - Licenses	Animal Control	ZZ OLD - Animal Complaint																		1																																												
+	CSG - Licenses	License Office	Gone Out of Business Case																																														71	54	83	54	17	9	8	6	8	3	4	6	60	63	24	141	
+	CSG - Licenses	License Office	Licence Payment Request Case																																														168	649	264	101	68	42	16	13	13	18	7	3	194	490	203	108	
+	CSG - Licenses & Inspections	Administration Branch	Building Plans Information Request																				44	55	58	32	59	57	53	54	66	53	45	62	54	50	64	46	58	58	90	58	67	48	50	37	51	65	42	29	61	47	60	54	81	53	54	57	67	71	73	34	66	72	
+	CSG - Licenses & Inspections	Administration Branch	Development Cost Information Request																				1										2																		1														
+	CSG - Licenses & Inspections	Administration Branch	General Information Request SR																		40	57	44	19	27	14	31	34	48	17	14	22	28	19	20	16	26	12	20	22	18	12	17	9	13	10	9	18	14	8	16	13	11	13	16	14	8	17	14	21	13	8	13	19	
+	CSG - Licenses & Inspections	Administration Branch	Grow Op Information Request																				1		4	3	4	3	2	2	2		2	4		4	4	1	5	3	3	3	4	2	3	3	2	3	2	2	2	1	5	3	2	1	3	2	8	6	3	2	1	4	
+	CSG - Licenses & Inspections	Administration Branch	Occupancy Permit Information Request																				10	13	10	8	9	12	8	9	8	9	6	14	11	3	2	11	4	6	4	8	6	4	6	6	3	8	7	5	5	8	7	9	7	9	4	5	9	6	1	4	3	4	
+	CSG - Licenses & Inspections	Administration Branch	Rental Property Violation Case																																																	10	1			2	1			2			1		
+	CSG - Licenses & Inspections	Administration Branch	Secondary Suite Information Request																				6	5	8	5	3	7	1	7	9	2	5	2	4	4	4	1	5	2	1	5	4	3		2	1	2	2	2	5	1	1	5	3	3	5	3	5	1	2		3	3	
+	ENG - Office of the Deputy City Engineer	Kent Construction Supplies and Services	Snow and Ice Removal - Sidewalk Bylaw Inquiry																																					6	8							1		2	1									1	1	3	1	5	
+	ENG - Office of the Deputy City Engineer	Kent Construction Supplies and Services	Snow and Ice Removal - Sidewalk Bylaw Violation																																					14	2								1	36	6										6	65	4	41	
+	ENG - Office of the Deputy City Engineer	Kent Construction Supplies and Services	ZZ OLD Snow & Ice Removal - Sidewalk Bylaw Inquiry																																	6	2		24																										
+	ENG - Office of the Deputy City Engineer	Kent Construction Supplies and Services	ZZ OLD Snow & Ice Removal-Sidewalk Bylaw Violation																																	11	7	14	112	1																									
+	ENG - Solid Waste	Sanitation	Abandoned Garbage Pickup - City Property & Parks					83	230	322	341	269	238	229	301	238	324	345	348	388	385	443	400	405	393	363	403	378	464	427	532	486	569	597	670	568	532	515	623	513	598	543	678	730	874	992	949	893	630	529	751	628	570	767	892	805	997	925	1100	956	766	559	725	611	
+	ENG - Solid Waste	Sanitation	Blue Box and Leaf Removal Guide Mail-Out Request																																								44	29	24	33	9	21	11	5	12	12	4	16	17	6	9	6	4	6	7	4	14	6	
+	ENG - Solid Waste	Sanitation	Cart - Apartment Recycling							25	75	49	45	46	66	65	98	82	88	91	92	81	85	69	70	73	100	76	89	100	98	91	111	135	102	94	117	82	120	110	100	97	132	145	155	194	149	148	120	109	143	123	114	183	182	144	156	136	124	135	116	101	182	123	
+	ENG - Solid Waste	Sanitation	Cart - Garbage							113	333	288	284	254	311	273	282	299	336	406	381	309	318	273	283	280	348	241	329	290	389	418	371	368	339	306	321	265	395	322	319	323	377	377	377	306	303	319	276	303	466	381	357	703	1188	1231	1126	880	813	707	552	471	696	495	
+	ENG - Solid Waste	Sanitation	Cart - Green (Yard Trimmings and Food Scraps)							72	203	179	187	158	137	99	195	305	359	432	303	233	227	208	211	146	164	110	154	179	351	335	321	312	266	230	236	167	169	175	187	297	370	386	350	275	293	240	242	175	250	194	257	729	1520	1413	1034	663	514	466	422	317	371	282	
+	ENG - Solid Waste	Sanitation	Collection Calendar Mail-Out Request																																								103	86	86	62	50	53	41	27	145	1156	551	187	144	213	253	126	111	73	31	38	68	610	
+	ENG - Solid Waste	Sanitation	Commercial Collections Pickup - Registration							9	3	6	9	4	9	3	3	7	11	4	6	7	2	4	9	3	2	2	4	4	3	9	9	2	3	4	8	4	3	7	1		3	4	10	3	3	3	4	6	11	5	3	1	6	5	10	4	7	1	1	6	10	6	
+	ENG - Solid Waste	Sanitation	Dead Marine Life Pickup																					9	1	1	2			3			1	10	3	1	1		1		1	3		3	1	10	3	5	3	3		2			1		2	2	2	2				2	
+	ENG - Solid Waste	Sanitation	Dead Skunk Pickup					9	21	15	21	21	12	4	6	22	8	8	13	24	66	50	39	14	2	7	3	19	6	12	12	16	54	37	15	13	4	3	2	21	11	12	16	20	61	50	29	23	13	6	10	24	13	4	14	23	72	63	24	20	10	1	6	13	
+	ENG - Solid Waste	Sanitation	General Inquiries													15	8	15	18	30	17	16	21	21	55	64	66	38	32	48	63	53	55	45	34	53	69	61	67	62	49	28	43	46	25	37	50	45	47	64	103	65	68	70	139	214	165	167	172	157	147	108	168	98	
+	ENG - Solid Waste	Sanitation	Green Bin Program - Feedback and General Inquiry																																																			43	99	73	56	40	33	11	17	9	14	11	
+	ENG - Solid Waste	Sanitation	Missed Apartment Recycling Pickup							1	7	17	2																				17	84	51	57	61	73	59	75	36	71	62	55	80	69	40	44	50	62	67	28	42	85	80	50	62	45	40	48	50	61	65	67	
+	ENG - Solid Waste	Sanitation	Missed Garbage Pickup							136	450	474	340	355	423	336	411	335	378	530	687	648	565	606	742	507	551	394	499	383	544	630	530	587	436	548	627	566	1182	379	348	374	388	441	479	570	387	487	474	621	1353	506	459	890	1024	1138	1062	1378	1312	1045	964	1054	780	717	
+	ENG - Solid Waste	Sanitation	Missed Recycling Pickup							74	256	220	170	161	160	108	147	114	191	322	296	207	177	205	178	182	391	126	161	146	214	203	323	282	249	218	242	227	750	249	202	276	262	306	513	231	256	243	199	351	1616	213	188	524	368	258	425	277	188	240	212	717	371	419	
+	ENG - Solid Waste	Sanitation	Missed Yard Trimmings and Food Scraps Pickup							100	349	478	765	379	301	202	279	402	413	457	467	416	315	540	747	446	544	235	250	319	458	519	480	504	459	480	1091	552	554	296	208	327	440	425	552	413	267	441	850	382	687	287	310	740	889	897	953	766	527	947	1411	534	1249	557	
+	ENG - Solid Waste	Sanitation	Pack Out Assistance Request					2	6	1	3	1		2	4	1	1	2	3	1	2			4		5	1	5	1	2	5			4		1	1	4	6	1	3			6	2	3	1	2	2	1	3	1	1	1	4	1	4	3	10	2	4		1	4	
+	ENG - Solid Waste	Sanitation	Parks Litter Can or Cart Request																														31	104	57	45	48	41	43	50	52	76	103	72	175	133	49	50	49	27	68	64	48	74	111	131	247	115	87	62	70	55	70	61	
+	ENG - Solid Waste	Sanitation	Poster/Sign Removal Request					4	4	6	1	1		4	2	2			2	4	6	2	4	15	2	17	13	5	5	16	17	8	13	4	5	9	7	27	22	8	6	2	16	64	154	38	13	6	12	8	22	43	68	74	85	46	43	82	54	61	176	94	30	22	
+	ENG - Solid Waste	Sanitation	Recycling Bag Request							175	406	374	479	405	566	412	441	529	431	378	385	381	346	302	374	392	441	394	471	368	928	303	641	664	681	585	746	596	1000	692	1255	639	291	221	257	311	346	283	221	236	375	245	249	371	422	342	324	284	275	233	219	205	331	237	
+	ENG - Solid Waste	Sanitation	Recycling Box Request							90	214	204	242	238	282	218	216	263	245	204	218	210	194	151	192	197	210	199	238	179	443	234	336	370	378	316	353	289	467	379	595	297	141	140	149	168	159	138	106	108	167	107	125	171	200	210	194	139	157	123	123	104	166	118	
+	ENG - Solid Waste	Sanitation	Sanitation Crew - Property Damage Complaint					14	23	11	27	8	6	8	14	11	11	6	11	14	14	10	11	15	8	14	13	8	14	22	22	22	12	28	17	19	19	20	12	12	13	11	26	16	15	20	22	16	17	13	18	9	7	17	27	16	41	27	16	12	14	14	10	15	
+	ENG - Solid Waste	Sanitation	Sea Water Request						1	1		1		1	1					1																						1																						1	
+	ENG - Solid Waste	Sanitation	Street Cleaning & Debris Pickup					47	92	84	119	120	209	181	142	118	110	130	121	124	149	162	117	104	125	136	140	124	139	130	125	150	147	197	138	150	146	145	152	189	167	152	200	152	198	262	229	210	201	203	235	213	204	212	188	187	257	233	237	195	270	217	266	180	
+	ENG - Solid Waste	Sanitation	Street Litter Can Request																														10	32	42	28	36	20	35	37	40	35	58	62	59	68	38	30	38	30	58	32	44	45	55	46	54	61	50	57	37	26	44	42	
+	ENG - Solid Waste	Sanitation	ZZ OLD -  Kitchen Container - Missed Delivery																																																1	4	4	281	1438	1413	840	280							
+	ENG - Solid Waste	Sanitation	ZZ OLD - Automated Cart Request					410	650	395	6	2			1											1																																							
+	ENG - Solid Waste	Sanitation	ZZ OLD - Cart - Apartment Recycling (Contracted)							2	8	11	2																																																				
+	ENG - Solid Waste	Sanitation	ZZ OLD - Collection Pickup Missed					1031	2393	1187	30	1			1																																																		
+	ENG - Solid Waste	Sanitation	ZZ OLD - Collection Schedule & Other Items Request							49	161	122	82	225	662	788	1362	775	259	176	145	112	99	107	68	261	597	591	857	485	345	135	228	246	226	180	173	119	154	681	1563	770	81																						
+	ENG - Solid Waste	Sanitation	ZZ OLD - Food Scraps Pilot  - Missed Yard and Food																																5	5	9	3	5	3	5	11	8	3	38	11	7	11	7	3	2		1												
+	ENG - Solid Waste	Sanitation	ZZ OLD - Food Scraps Pilot - Abandoned Garbage																																3	1																													
+	ENG - Solid Waste	Sanitation	ZZ OLD - Food Scraps Pilot - Feedback/General Inq																															4	29	31	31	18	32	37	10	5	10	4	7	2	20	16	8	4	80	43	27	43											
+	ENG - Solid Waste	Sanitation	ZZ OLD - Food Scraps Pilot - Garbage Cart																																8	29	15	21	23	21	5	16	19	12	9	8	8	3	5	1	3	1	4	3											
+	ENG - Solid Waste	Sanitation	ZZ OLD - Food Scraps Pilot - Green Cart																																18	22	10	8	6	6	4	5	13	3	8	7	5	3	4	3	2														
+	ENG - Solid Waste	Sanitation	ZZ OLD - Food Scraps Pilot - Missed Garbage																																3	34	35	9	15	9	4	13	6	5	11	7	10	7	5	2	2	6	1	3											
+	ENG - Solid Waste	Sanitation	ZZ OLD - Kitchen Container - Broken																																																					30	72	71							
+	ENG - Solid Waste	Sanitation	ZZ OLD - Kitchen Container - Do Not Want																																																		1	1											
+	ENG - Solid Waste	Sanitation	ZZ OLD - Kitchen Container - Return																																																			22	33	34	15	4							
+	ENG - Solid Waste	Sanitation	ZZ OLD - Litter Can or Parks Litter Cart ﾖ Cleanup							4	8	3	1		3	32	7	7	5	6	49	80	21	34	43	44	20	12	36	50	59	117	114																																
+	ENG - Solid Waste	Sanitation	ZZ OLD - Litter Can or Parks Litter Cart - New							3	4	5	3	1	3	14	4	4	8	10	21	25	14	18	11	12	13	11	14	22	22	36	33																																
+	ENG - Solid Waste	Sanitation	ZZ OLD - Litter Can or Parks Litter Cart - Repair							1	2		3	3	1	4	1	6	1	5	24	2	11	19	5	5	6	7	9	3	6	10	11																																
+	ENG - Solid Waste	Sanitation	ZZ OLD - Litter Can Request					10	18	12	5	5	2	1	2																																																		
+	ENG - Solid Waste	Sanitation	ZZ OLD - Missed Apartment Recycling Pickup							15	50	38	46	47	50	27	32	34	68	60	63	57	63	64	57	64	68	51	65	42	44	41	73																																
+	ENG - Solid Waste	Solid Waste Management	Apartment Recycling - Property Access Change																																								20	8	9	9	1	7	6	8	10		7	4	3	7	7	12	8	4	9	3	6	4	
+	ENG - Solid Waste	Solid Waste Management	Apartment Recycling - Registration Request					8	20	13	8	9	10	7	21	7	7	6	16	8	9	10	9	9	7	7	7	15	12	11	7	9	4	16	10	12	8	6	5	7	10	5	13	4	9	7	6	9	12	3	12	2	12	13	6	6	2	4	13	5	6	6	9	10	
+	ENG - Solid Waste	Solid Waste Management	Commercial Waste Container Request					8	10	5	3	8	2	7	9	11	9	7	11	19	13	11	9	12	10	10	16	11	14	10	14	15	27	30	33	15	15	20	30	28	23	25	49	33	37	43	34	43	29	27	45	34	35	35	51	58	72	67	47	43	35	28	59	32	
+	ENG - Solid Waste	Solid Waste Management	General Inquiries													2	2	7	6	6	3	1	3	14	9	6	7	3	9	11	14	5	7	14	4	3	12	8	13	7	10	10	11	8	8	5	11	6	8	5	11	12	13	23	16	19	26	14	12	5	15	7	10	13	
+	ENG - Solid Waste	Solid Waste Management	Illegal Dumping/Abandoned Garbage Pickup					124	122	38	48	57	52	50	48	32	45	33	63	49	50	83	60	69	73	51	59	43	47	41	74	54	52	62	51	43	71	39	37	40	28	32	50	41	54	52	39	161	199	105	143	106	100	118	153	105	139	120	131	155	160	107	191	173	
+	ENG - Solid Waste	Solid Waste Management	Placement of Grease Containers Request						1														1												1																					1								1	
+	ENG - Solid Waste	Solid Waste Management	ZZ OLD - Illegal Dumping - City Property										1																																																				
+	ENG - Solid Waste	Transfer and Landfill Operations	Landfill & Composting - General Inquiries					2	2	1	2	4		1		1	3	4	1	1	4	2	1	3	1	1	6	4	11	14	12	8	8	4	6	10	2	5	6	10	2	7	9	3	4	3	7	2	3	6	3	5	11	9	20	4	16	7	3	7	6	8	8	15	
+	ENG - Solid Waste	Transfer and Landfill Operations	Transfer Station & Recycling - General Inquiries						2		1		1				3	2	5	1	3	3	2		3	4	3	5	3	1	3	4	9	3	2	5	6	5	2	4	4	5	12	2	2	3	3	6	3	2	1	4	2	20	5	6	7	8	9	1	3	1	3	3	
+	ENG - Streets	Streets Design - P & D - Accessibility	Wheelchair Curb/Ramp Request																														11	11	4	6	1	1		1	6	4	10	14	3	7	16	7	8		3	6	6	6	7	4	11	6	6	7	4	7	6	7	
+	ENG - Streets	Streets Design - P & D - Local Improvement	Local Improvement - General Inquiries					13	14	10	18	15	14	7	11	6	14	9	13	10	16	13	11	15	16	17	13	19	17	22	31	16	34	20	19	19	15	13	11	19	23	12	26	15	20	20	12	14	18	11	18	14	16	25	23	19	25	32	37	15	10	6	13	10	
+	ENG - Streets	Streets Operations	Board Up - Request							2	1			4	2	4						1			1		5	4	2	1		6	3		1				13	10	17	14	15	20	28	20	15	20	20	18	15	18	21	14	15	16	23	15	25	24	17	15	21	21	
+	ENG - Streets	Streets Operations	Boulevard Maintenance Issues																																2	4	4	6	7	25	25	19	50	26	28	19	19	8	8	13	25	15	30	37	42	39	25	18	20	21	8	5	13	21	
+	ENG - Streets	Streets Operations	Bridges & Structures - Repair					1		3	1	3	1		1	1					1		1	2		4	4	2	4		7	1		2	2	1	2	2	1	1	3	2	2	3	2	3	3	2	3		1	4	1	6	4	5	5	8	1	3	1	3	2	3	
+	ENG - Streets	Streets Operations	Homelessness/Transient Issue					10	23	16	15	6	4	7	15	10	2	5	3	10	5	8	9	10	8	3	12	7	9	6	5	5	13	16	27	13	11	9	14	12	16	13	19	23	24	18	42	28	20	24	21	10	20	14	26	24	22	35	29	21	20	15	15	13	
+	ENG - Streets	Streets Operations	Pothole - Repair					19	34	34	30	59	91	78	177	104	84	69	56	79	47	36	46	36	48	89	161	166	181	162	157	90	89	63	53	52	61	66	133	174	197	134	153	80	86	58	35	56	105	175	196	173	306	256	181	110	121	86	67	72	57	59	143	99	
+	ENG - Streets	Streets Operations	Sidewalk - Repair					22	25	36	38	46	49	38	55	47	77	53	61	61	71	80	75	69	54	53	65	52	95	90	93	76	64	97	84	61	46	39	40	75	68	85	79	75	90	88	81	101	65	71	55	58	87	81	81	66	86	100	86	88	69	40	71	49	
+	ENG - Streets	Streets Operations	Snow & Ice Removal - City Property										5	62	1										59	17	53	30									14	20	147	9	7								5	96	88										9	176	32	108	
+	ENG - Streets	Streets Operations	Street - Construction Complaint					12	25	13	19	4	5		1	2	1	3	2	11	7	8	10	14	18	24	27	39	28	34	26	44	29	22	31	19	25	16	18	20	35	27	46	45	62	53	38	50	38	41	47	22	37	44	44	42	88	50	56	51	57	20	40	36	
+	ENG - Streets	Streets Operations	Street - Repair					18	24	35	37	66	68	39	66	36	28	54	37	68	81	71	57	53	29	64	78	95	82	87	88	107	93	99	59	61	63	39	57	82	92	93	114	141	122	119	95	112	99	94	109	93	120	138	131	118	146	113	105	106	85	68	87	72	
+	ENG - Streets	Streets Operations	Street - Surface Water Flooding					6	13	6	74	83	211	64	89	17	34	35	13	29	5	55	86	98	149	133	116	49	54	61	82	45	25	33	59	69	242	45	119	106	65	67	41	51	41	14	34	361	451	217	88	67	142	75	67	93	49	124	287	101	247	62	164	135	
+	ENG - Streets	Streets Operations	Streets - General Issues					11	35	33	57	82	55	145	74	77	113	91	99	99	96	92	112	93	97	74	107	101	129	146	128	151	137	163	109	94	95	69	88	114	130	104	115	111	102	142	136	147	110	91	104	98	117	144	118	144	156	154	143	158	103	90	105	118	
+	ENG - Streets	Streets Operations	Trees and Vegetation Encroachment - City Property																																20	73	36	18	13	15	30	34	87	137	134	85	82	66	31	28	35	25	24	45	88	157	139	94	79	76	39	31	28	24	
+	ENG - Streets	Streets Operations	ZZ OLD - Grass Mowing - City Property					16	13	13	19	23	21	11	10	8	14	18	60	109	98	46	64	62	35	17	23	18	23	23	41	192	133	257	63																														
+	ENG - Streets	Traffic and Electrical Operations	Banner Request																														1	2	3	2		1		4		1	4	1		5	1		1				3		2				3		3		1	9	
+	ENG - Streets	Traffic and Electrical Operations	Flag Request																												1				1	1					2	1				3			2					1						1			1	1	
+	ENG - Streets	Traffic and Electrical Operations	General Inquiries																											36	30	24	42	29	29	31	16	24	25	21	23	16	38	14	42	32	30	40	29	34	44	29	31	24	32	26	43	30	33	41	28	20	23	20	
+	ENG - Streets	Traffic and Electrical Operations	Pavement Marking - Repair																											3	12	8	5	6	12	3	4	6	3	4	3	6	13	15	10	10	11	9	4	4	6	6	3	10	4	8	14	17	10	10	4	3	5	9	
+	ENG - Streets	Traffic and Electrical Operations	Sign - Repair																											45	54	68	50	67	64	45	48	51	56	38	44	53	56	55	78	67	68	63	55	58	67	34	74	54	75	59	88	81	91	75	71	77	78	68	
+	ENG - Streets	Traffic and Electrical Operations	Street and Traffic Light - Utility Damage																											15	22	13	15	18	14	19	18	8	9	11	14	10	23	12	9	19	13	11	16	8	26	16	21	16	10	11	13	10	10	9	9	14	9	15	
+	ENG - Streets	Traffic and Electrical Operations	Street Light - Flat Glass Fixture Request																											4	7	10	6	7	8	4	6	8	5	13	7	7	8	9		2	4	1			1		3	2		2	1	1	7		1		4		
+	ENG - Streets	Traffic and Electrical Operations	Street Light - New/Relocation																											1	2	4	3	4	6	12	12	7	5	10	11	6	4	6	2	2	9	8	7	12	12	14	5	5	8	10	5	11	9	6	13	15	13	9	
+	ENG - Streets	Traffic and Electrical Operations	Street Light - Out																											246	307	249	336	428	517	599	727	756	710	800	765	446	395	244	260	356	351	557	621	509	782	503	467	352	296	226	291	376	422	592	540	510	766	420	
+	ENG - Streets	Traffic and Electrical Operations	Street Light - Pole Repair																											20	23	32	21	18	23	17	30	28	26	32	39	24	45	32	27	31	18	27	34	44	39	33	52	39	31	20	30	31	29	43	45	26	45	43	
+	ENG - Streets	Traffic and Electrical Operations	Traffic Signal - Repair																											59	55	80	73	60	75	47	79	71	83	112	122	86	83	58	73	77	88	101	90	78	105	76	123	117	79	89	84	98	110	79	79	53	72	67	
+	ENG - Streets	Traffic and Electrical Operations	Traffic Signal - Timing Synchronization																											6	1	3	10	1	5	5	5	11	5	3	1	2	7	6	3	1	6	3		1	5	2	2	6	5		4	4	5	1	7		1	3	
+	ENG - Streets	Traffic and Electrical Operations	ZZ OLD - Decorative Lighting Request																											3		1				1																													
+	ENG - Streets	Traffic and Electrical Operations	ZZ OLD - Street Light - Turn Off/On																											8	8	5	1	1																															
+	ENG - Streets	Traffic and Electrical Operations	ZZ OLD - Street Sign - New																											3	1	1	2	2		3		4	1	1			3	1	1	3		1	2	1	2	1	1	2	3	2	4	1	2	2	1	2	5	2	
+	ENG - Streets	Utilities Management - Coordination (Road Ahead)	City Construction Complaints																														14	7	11	6				1	1	2	6		4	1	1	2		1	3	2	1	2			3				2			4	
+	ENG - Streets	Utilities Management - Coordination (Road Ahead)	General Inquiries																														24	16	2																														
+	ENG - Streets	ZZ OLD - Streets Administration - Graffitti Mgmt	ZZ OLD - Graffiti Removal - External Organization					4	14	9	6	3	2	2	6	3	4	5	9	2	1	11	6	3	3	3	6	2	3	2	4	3	5	36	19	6	4	12	7	8	14	9	47	41	26	14	1																		
+	ENG - Streets	ZZ OLD - Streets Administration - Graffitti Mgmt	ZZ OLD - Graffiti Removal - Public Property					30	30	21	15	12	14	10	16	26	20	24	50	43	71	75	64	51	53	60	81	80	53	38	34	31	45	122	114	44	17	42	38	35	34	53	87	121	85	86	26																		
+	ENG - Streets	ZZ OLD - Streets Administration-Streets Furniture	Street Furniture Complaint SR											2	2		2	1	1		1	1	2	2	1			2	2	4																																			
+	ENG - Streets	ZZ OLD - Streets Administration-Streets Furniture	Street Furniture Maintenance Request Generic										2		1	8	5	2	5	4	10	9	2	4		3	5	2	9	3																																			
+	ENG - Streets	ZZ OLD - Streets Administration-Streets Furniture	Street Furniture Maintenance Request SR					11	10	2	6	25	2	2	24	6	1	4	14	6	12	13	15	8	9	4	6	6	9	10	1																																		
+	ENG - Streets	ZZ OLD - Streets Administration-Streets Furniture	Street Furniture Request										5	1	1	2	7	2	2	6	12	8	4	3	7	4	1	10	7	9																																			
+	ENG - Streets	ZZ OLD - Streets Design (Road Ahead)	City Construction Complaints	4	3	7	2	7	14	11	10	14	7	10	7	14	2	9	12	4	7	2	12	8	10	7	6	13	7	10	11	8	1																																
+	ENG - Streets	ZZ OLD - Streets Design (Road Ahead)	General Inquiries													2	6	13	7	18	23	7	8	7	10	14	11	8	18	25	28	24	6																																
+	ENG - Streets	ZZ OLD - Streets Design (Road Ahead)	Wheelchair Curb/Ramp Request	2		2			2	4	2	2	2			3	3	1	3	3	4	3	2	4	1	2	3	2	2	2	4	6	1																																
+	ENG - Transportation	Active Transportation	Bicycle Route Map Request	1	7	5	11	22	27	12	12	2	2	1	2	4	5	2	9	6	8	8	5	5	3		1	3	5	9	10	6	5	9	1	3	6	2	1	2	7	13	10	9	6	7	8	1	1	1	5	2	10	17	6	5	12	20	4	10	2	1	2	3	
+	ENG - Transportation	Active Transportation	General Inquiries													2	5	8	3	9	14	12	9	6	12	6	4	6	9	25	15	16	21	9	21	14	13	6	12	20	17	22	29	39	14	12	24	25	19	19	40	24	38	28	47	46	83	52	46	31	21	12	35	20	
+	ENG - Transportation	Active Transportation	ZZ OLD - Traffic Calming Request	2	1	3	2	19	16	18	17	25	5	8	12	7	9	6	9	12	21	16	18	18	12	11	13	12	16	38	19	25	30	24	22	16	8	10	13	15	6																								
+	ENG - Transportation	Neighbourhood Parking and Transportation	General Inquiries																																											6	58	69	47	30	37	41	51	60	79	49	64	93	85	62	64	27	38	34	
+	ENG - Transportation	Neighbourhood Parking and Transportation	Parking Meter Requests		2	2		2	2	4	3	3	3			3	2			3	3	2	1	1			1		2	17		3	2	3	2	3	3	4	2	1	1	2	5	2		1	1	3	2	2	1	3	2	5	3	6	5	3	3	3	1	1	4	2	
+	ENG - Transportation	Neighbourhood Parking and Transportation	Residential Parking Permit Inquiry Case																																																						32	34	50	52	55	32	51	66	
+	ENG - Transportation	Neighbourhood Parking and Transportation	Residential Parking Requests	4	19	14	17	30	29	47	58	57	40	33	35	16	46	22	37	41	41	27	35	21	21	18	30	24	43	67	67	43	53	56	75	52	50	25	40	60	31	41	59	64	62	62	52	50	39	37	39	49	53	53	68	65	57	60	63	61	55	45	81	54	
+	ENG - Transportation	Neighbourhood Parking and Transportation	Traffic Calming Request																																						14	11	14	23	29	24	16	9	17	6	9	8	13	26	17	15	19	25	33	15	5	23	24	25	
+	ENG - Transportation	Parking Ops & Enforcement	Abandoned Vehicle Request					153	190	174	191	182	180	158	163	105	213	197	194	176	141	186	181	161	124	179	145	134	203	197	256	129	165	200	153	201	152	131	127	146	132	139	176	155	159	200	137	159	153	100	172	142	126	135	168	131	159	130	164	190	135	93	175	146	
+	ENG - Transportation	Parking Ops & Enforcement	ZZ OLD -General Inquiries													3	4	4	5	9	12	7	5	2	4		5																																						
+	ENG - Transportation	Parking Ops & Enforcement	ZZ OLD -Parking Enforcement Request					847	1572	1528	1650	1444	1327	1194	1263	1525	1264	1408	1524	1651	1742	1655	1788																																										
+	ENG - Transportation	Street Activities - Integrated Graffiti Management	Community Paint Out Request																																												3		6	1		1		2		1			1	1				2	
+	ENG - Transportation	Street Activities - Integrated Graffiti Management	Free Paint Voucher Request																																												15	14	10	12	16	20	24	39	24	23	40	24	18	27	36	19	32	43	
+	ENG - Transportation	Street Activities - Integrated Graffiti Management	Graffiti Removal - City Property																																												45	52	52	69	77	116	129	167	121	133	155	171	190	301	313	171	140	199	
+	ENG - Transportation	Street Activities - Integrated Graffiti Management	Graffiti Removal - External Organization																																																		29	34	41	47	35	70	85	149	152	62	55	82	
+	ENG - Transportation	Street Activities - Streets Furniture	Street Furniture Repair and Maintenance Request																												28	19	28	21	22	13	16	15	14	10	33	15	20	30	21	16	21	21	19	15	27	26	27	28	29	35	32	50	27	75	50	68	40	52	
+	ENG - Transportation	Street Activities - Streets Horticulture	Boulevard Garden Location Information																																																		17	10	6	11	14	1	2	11	3	1		12	
+	ENG - Transportation	Street Activities - Streets Horticulture	Horticulture Inquiry on Right-of-Way																																																		13	21	13	15	12	6	8	10	4	3	8	9	
+	ENG - Transportation	Traffic and Data Management	Crosswalk Marking - New						2	5	2	2	2	2	1	1	2	2	1		1	5	2	2	14	2		3	3	1	5	6	5	5	4	3	3	2	2	3	6	2	8	2	8	3	12	8	5	2	2	2	3	6	5	5	4	10	8	13	6	7	2	5	
+	ENG - Transportation	Traffic and Data Management	Curbside Sign - Modify					3	9	5	2	6	1	5	2	5	4	2	3	5	6	7	7	5	4	4	4	3	6	6	6	2	1	11	8	8	6	12	5	8	6	7	6	4	8	4	6	5	6	5	9	7	7	9	11	6	11	3	7	3	7	6	5	4	
+	ENG - Transportation	Traffic and Data Management	Curbside Sign - New					4	14	12	10	23	11	10	4	8	8	8	8	8	12	6	9	12	9	2	7	13	14	13	6	9	7	10	7	8	10	10	11	12	12	14	18	18	15	15	13	12	14	10	10	10	6	8	7	10	8	12	8	7	15	8	13	10	
+	ENG - Transportation	Traffic and Data Management	General Inquiries													11	11	10	6	20	13	14	13	14	22	15	22	29	18	25	22	28	28	26	23	18	21	10	25	34	21	31	50	23	32	41	37	28	18	15	43	29	42	53	38	37	46	35	42	33	30	24	41	24	
+	ENG - Transportation	Traffic and Data Management	Pavement Markings Request - New/Modify							2	4	1	2	2			3	1	2	3	3	3	3		4	2	7	5	6	4	5	8	2	3	7		4	2	3	5	2	3	8	6	11	5	4	8	5	4	5	7	3	3	3	3	7	10	5	5	4	5	3	7	
+	ENG - Transportation	Traffic and Data Management	Traffic & Pedestrian Signal - Modify					6	10	5	10	18	15	9	11	6	11	2	7	10	4	13	18	3	10	5	14	12	21	7	13	8	9	13	16	16	15	14	14	15	19	13	21	17	17	14	24	35	27	36	21	24	18	16	32	31	36	27	31	29	20	22	30	20	
+	ENG - Transportation	Traffic and Data Management	Traffic & Pedestrian Signal - New					3	9	6	12	9	5	3	9	3	8	6	7	7	8	13	19	8	17	14	4	11	13	7	3	4	12	12	14	19	11	19	18	12	5	24	16	24	14	20	18	22	18	29	32	22	19	17	15	15	17	21	30	25	23	28	33	14	
+	ENG - Transportation	Traffic and Data Management	Traffic Count Request					4	6	1	1			1			1	1		2	1	1		2	4	3	4		1	1	3	2	1	1		4			2	3	1	1	1		2	1	3	2	1		4				2	1	1		4	6	1		4	4	
+	ENG - Transportation	Traffic and Data Management	Traffic Sign - Modify							12	1	6	1	2	5	2	2	2	1	1	1		4			3	1	1	8	3	3	1		4	5	5	3	1	2	2		1	2	4	2	2	2	3	2	3	2			6	7	2	6	2	5	3	4	2	7	4	
+	ENG - Transportation	Traffic and Data Management	Traffic Sign - New					13	8	10	10	4	9	4	2	8	1	2	1	2	2	3	2	2	4		1	5	9	5	2	10	6	2	6	2	3	1	3	2	3	6	12	9	7	2	14	4	2	2	4	2	5	2	9	6	12	4	11	9	5	2	2	11	
+	ENG - Transportation	Traffic and Data Management	Truck Violation					3	1	1	3			1			1	1	1	2	1	3	2	3	3	1	1	1	3	3	3	6	3	9	7	4	2		3	1	1	2	2	3	4	7	7	3	3		1		6	6	2	4	11	9	4	4	4	3	1		
+	ENG - Transportation	Traffic and Data Management	ZZ OLD -Street Sign - New					3																																																									
+	ENG - Transportation	ZZ OLD - Traffic And Electrical Operations	Banner Request					2		1		2	1		2			3	1	2		1	1		1	1	1	1	4																																				
+	ENG - Transportation	ZZ OLD - Traffic And Electrical Operations	Decorative Lighting Request						3	2		2	5		3	4	6	4	1	1	2	2	1	2	5	2	5	7	1																																				
+	ENG - Transportation	ZZ OLD - Traffic And Electrical Operations	Flag Request									2						2		2	2							1																																					
+	ENG - Transportation	ZZ OLD - Traffic And Electrical Operations	General Inquiries																	3	12	16	19	13	23	21	31	32	35	1																																			
+	ENG - Transportation	ZZ OLD - Traffic And Electrical Operations	Pavement Marking - Repair					1	7	7	2	3	1		2		5	1	5	3	3	5	4	2	4	2		7	1																																				
+	ENG - Transportation	ZZ OLD - Traffic And Electrical Operations	Sign - Repair					9	21	24	18	32	28	28	45	47	32	43	47	46	39	45	38	38	40	39	26	36	40	1																																			
+	ENG - Transportation	ZZ OLD - Traffic And Electrical Operations	Street Light - New/Relocation					2	2	2	7	9	5	4	7	3	2		4	7	5		5	9	8		9	6	6																																				
+	ENG - Transportation	ZZ OLD - Traffic And Electrical Operations	Street Light - Out					34	56	58	120	581	628	510	605	296	241	261	220	176	193	279	379	544	473	704	729	452	433	16																																			
+	ENG - Transportation	ZZ OLD - Traffic And Electrical Operations	Street Light - Pole Repair					3	9	5	7	19	21	11	17	23	21	34	30	16	21	17	20	19	23	13	19	23	26																																				
+	ENG - Transportation	ZZ OLD - Traffic And Electrical Operations	Street Light - Shield Request					3	2	3	1	6	5	7	8	2	9	9	4	2	8	7	2	10	7	2	3	9	7																																				
+	ENG - Transportation	ZZ OLD - Traffic And Electrical Operations	Street Light - Turn Off/On					1	6	1		10	2	2	6	5	2	5	5	2	5	2	5	10	11	5	8	3	7																																				
+	ENG - Transportation	ZZ OLD - Traffic And Electrical Operations	Street Light - Utility Damage					2	1		4	10	8	3	14	8	4	11	6	14	18	11	10	13	12	4	8	13	21	2																																			
+	ENG - Transportation	ZZ OLD - Traffic And Electrical Operations	Street Sign - New					5	1	1	1	2	3	1	1	2	2			2	3	1	1			1		2																																					
+	ENG - Transportation	ZZ OLD - Traffic And Electrical Operations	Traffic Signal - Repair					12	23	19	22	41	37	62	83	39	54	58	38	37	53	71	46	48	64	58	95	62	84	2																																			
+	ENG - Transportation	ZZ OLD - Traffic And Electrical Operations	Traffic Signal - Timing Synchronization					1	6	6	4	5	4	3	10	1	2	4	2	8	3	5	2	8	14	2	9	13	8																																				
+	ENG - Water & Sewer	Neighbourhood Energy Utility	General Inquiry																																							7						1	2		2	1	1				1		4		4	2		3	
+	ENG - Water & Sewer	Neighbourhood Energy Utility	No Hot Water or Heating																																							4					1	1	1			2		1			1			1	2	1		2	
+	ENG - Water & Sewer	Sewers and Drainage Design	Sewer Design General Inquiries										18				5	4	7	3		3	5	3	1	4	1	1	6	2	3	6	3	3	2		5	1	3	3	3		4	1	3	2	3	6		3	1	1	4	7	1	2	2		2	3	6	1	3	3	
+	ENG - Water & Sewer	Sewers Operations	Catch Basin Issues										1				5	32	15	23	17	41	58	28	28	23	28	16	29	23	19	14	11	8	18	18	25	10	21	23	21	15	18	40	24	13	18	13	8	7	8	1	2	7	9	5	5	8	11	4	4	3	5	3	
+	ENG - Water & Sewer	Sewers Operations	Sewer Backup/Flooding										5				15	69	52	70	71	97	124	84	82	81	74	33	63	49	76	68	76	72	75	60	81	61	73	61	85	80	79	71	84	70	85	128	103	95	80	106	94	88	91	70	86	113	151	128	99	98	126	115	
+	ENG - Water & Sewer	Sewers Operations	Sewer Construction Site Complaints										6				1	1		3	4	4	16	9	9	11	10	13	8	13	20	20	19	21	11	13	16	9	13	19	23	14	35	30	24	34	35	34	25	19	34	17	20	26	32	30	47	25	24	16	21	8	20	16	
+	ENG - Water & Sewer	Sewers Operations	Sewer General Inquiries										1				17	50	13	15	21	7	42	10	16	10	11	6	8	11	21	20	19	16	14	20	11	9	8	12	12	10	13	17	13	26	14	16	15	16	16	10	24	24	18	16	18	49	41	38	22	17	29	20	
+	ENG - Water & Sewer	Sewers Operations	Sewer Main Break/Blockage										2				3	9	10	2	3		11	3	1	2	2	1	3	2	1	2	1	1	4	3	2	2	2	1	4		3	2	3	4	2	4	5	2	3	4	2	2	2	3	1	10	3	6	3	1	1	2	
+	ENG - Water & Sewer	Sewers Operations	Sewer Manhole Issues										1				2	8	10	11	15	12	9	9	7	16	14	7	13	20	23	13	16	13	8	13	18	10	12	14	15	11	17	20	19	13	6	14	23	12	18	10	14	23	25	27	25	23	27	18	9	12	12	14	
+	ENG - Water & Sewer	Sewers Operations	Sewer Odour Complaints										1				2	6	4	1	10	2	3	3	4	7	4	3	4	5	4	2	5	8	9	5	2	3	5	3	2	4	6	3	10	5	5	1	1	2	5	1	5	2	4	8	2	2	6	9	4	2	1	3	
+	ENG - Water & Sewer	Sewers Operations	Sewer Pipe Inquiries										1				2	2	6	13	6	1	14	4	5	7	1	1	4	9	13	8	13	19	17	16	14	18	12	11	11	13	16	15	19	20	11	26	19	22	32	31	24	29	21	22	30	14	50	50	32	24	52	37	
+	ENG - Water & Sewer	Sewers Operations	Sewer Utility Damage										1				1		1	3				1						1		1		1							2							1					2	1				1	2	2		3	1	5	
+	ENG - Water & Sewer	Water Design	Water Conservation Violation										3				4		6	17	112	109	14	5	1	1			1	1	3	25	65	202	74	2	4			1	1	1	6	7	50	78	35	1	1	5		1		1	7	29	164	118	13	2	3	6	1	3	
+	ENG - Water & Sewer	Water Operations	Water Damage To City Water System										2				1	3	3	8	3	2	4	3	3	3	2	5	5	3	3	4	6	3	3	4	3	4	4	1	2		1	6	7	3	5		2	1	5	1	2	1	7	5	2	7	3	2	3	1	2	9	
+	ENG - Water & Sewer	Water Operations	Water General Inquiry										2				9	38	31	18	21	19	19	30	26	19	16	24	25	33	34	44	35	36	36	24	12	10	15	20	25	19	36	17	25	21	21	20	12	12	9	11	24	33	26	17	30	12	25	31	27	24	10	19	
+	ENG - Water & Sewer	Water Operations	Water General Work Request																																	4	22	19	11	6	29	31	41	36	40	33	38	31	21	13	31	22	41	41	32	28	55	39	22	21	21	19	19	24	
+	ENG - Water & Sewer	Water Operations	Water Hydrant Issue										3				6	16	26	26	23	35	26	16	19	20	20	18	14	24	28	27	26	33	29	15	14	20	21	24	22	28	21	29	34	32	29	7	15	6	15	18	20	18	24	34	25	18	27	43	44	34	39	23	
+	ENG - Water & Sewer	Water Operations	Water Leaks/Breaks																																													73	162	133	175	141	188	151	182	171	259	198	187	146	170	220	151	203	
+	ENG - Water & Sewer	Water Operations	Water Meter Issue										1				4	6		6	5	7	5	7	6	2	5	2	5	2	2	4	1	3	3	3	5	2	3	3	1	7	11	6	2	8	3	3	9	4	6	8	14	10	12	7	7	8	9	3	3	7	4	6	
+	ENG - Water & Sewer	Water Operations	Water Pressure or No Water Issue										1				3	12	13	11	24	18	18	15	29	16	16	12	11	7	13	20	10	16	9	21	23	6	15	10	16	14	31	14	10	18	15	18	12	14	7	30	22	20	20	13	17	12	9	9	13	22	8	25	
+	ENG - Water & Sewer	Water Operations	Water Quality Issue										1				1	16	17	8	8	10	5	15	9	9	12	14	21	21	17	33	11	10	12	14	7	11	12	11	24	19	25	14	11	15	8	26	9	11	13	28	36	15	15	30	18	10	5	6	12	16	23	15	
+	ENG - Water & Sewer	Water Operations	Water Service Locate Request										1				5	28	21	18	21	19	29	21	20	17	15	18	21	17	26	27	32	35	32	21	23	16	9	19	26	24	25	32	25	28	25	19	20	13	10	3	16	27	27	32	23	26	31	32	23	16	17	17	
+	ENG - Water & Sewer	Water Operations	Water Service Turn On/Off Request										1				13	63	55	60	56	49	56	34	74	46	59	48	64	55	79	60	63	57	60	51	44	36	61	57	52	49	53	67	76	72	61	60	47	40	48	31	62	48	63	64	79	58	60	68	60	43	56	53	
+	ENG - Water & Sewer	Water Operations	Water Valve Issue										1				3	45	23	21	33	28	32	22	17	20	19	18	21	10	16	19	7	26	15	9																													
+	ENG - Water & Sewer	Water Operations	Water Work Site Complaint										2				3	2	2	1	5	3	4	5	7	1	7	7	9	12	11	12	6	13	18	9	8	8	10	14	14	16	17	21	10	11	11	27	20	12	12	17	17	15	24	17	16	22	21	25	19	15	12	23	
+	ENG - Water & Sewer	Water Operations	ZZ OLD - Water Leak City Property										2				14	120	94	107	153	189	187	101	98	130	112	125	100	78	117	145	140	161	136	86	126	128	99	85	85	82	161	148	169	157	178	74																	
+	ENG - Water & Sewer	Water Operations	ZZ OLD - Water Leak Private Property										3				7	63	42	41	48	57	53	35	63	42	41	42	47	65	57	89	71	96	75	62	51	61	71	50	67	61	78	80	113	109	93	62																	
+	FIN Revenue	Bylaw Adjudication	Bylaw Adjudication Feedback																									1																																					
+	FIN Revenue	Bylaw Adjudication	Bylaw Ticket Not Received																										8	11	9	2	14	8	3	5	6	19	7	9	4	7	10	8	8	4	3	13	9	9	8	10	10	12	12	12	12	8	11	19	11	14	18	12	
+	FIN Revenue	Bylaw Adjudication	Bylaw Ticket Reschedule Hearing																									1					1	2			2	7				3	3			1	2	2		2	5	3	1			1	1		4	3					
+	FIN Revenue	Bylaw Ticket Payments and Adjustments	Bylaw Ticket Adjustment Late Payment				1	24	46	41	52	41	62	44	42	55	73	55	42	21	35	16	6	14	16	10	17	13	18	14	3	6	7	8	5	8	19	10	9	7	3	2	3	6	5	3	3	8	11	4	4	48	7	4	5	7	3	1	4	2		1	9	7	
+	FIN Revenue	Bylaw Ticket Payments and Adjustments	Bylaw Ticket Adjustment Miscellaneous				6	14	16	6	12	5	13	4	15	9	9	5	8	4	4	7	4	5	3	1	1	2	5	6	3	3	2	2	2	5		2	2	3	2	1	3	4	4	2		5	2	4	3	4	1	2	3	2	5	6	3	2	1	1	9	3	
+	FIN Revenue	Bylaw Ticket Payments and Adjustments	Bylaw Ticket Adjustment Missing Payment				1	13	24	22	21	15	17	14	13	10	14	10	11	6	3	3	2	4	3	6	4	3	5	10	3	2	5	7	10	6	12	5	2	14	6	8	4	11	5	5	8	10	21	2	3	14	8	5	6	4	4	7	18	7	7	6	11	9	
+	FIN Revenue	Bylaw Ticket Payments and Adjustments	Bylaw Ticket Adjustment Refund				1	34	47	45	41	50	50	38	56	26	36	56	31	40	42	21	30	13	14	9	14	12	22	15	10	4	10	8	10	4	8	6	14	5	4	5	4	5	3	2	3	4	7	2	13	12	6	8	5	3	3	6	5	5	8	3	5		
+	FIN Revenue	Bylaw Ticket Payments and Adjustments	Bylaw Ticket Adjustment Transfer Payment				1	6	9	9	3	11	8	6	10	9	12	9	6	8	4	5	3	2	3	4		5	3	8	2	2		6	2	1	5	3	1	5	8	1	2	1	4	3	7	4	6		7	6	1	2	2		4		1	1	1	1	1	6	
+	FIN Revenue	Bylaw Ticket Payments and Adjustments	Bylaw Ticket Not On Web																																																					13	9	16	19	12	19	15	30	16	
+	FIN Revenue	Bylaw Ticket Payments and Adjustments	Bylaw Ticket VPD Ticket Cancellation				2	5	4	1	3						1																	1																															
+	FIN Revenue	PTax Bill Queries	PTax Budget and Report Info																																		3																			2					2	1			
+	FIN Revenue	PTax Bill Queries	PTax HELP Case																																	6			1																										
+	FIN Revenue	PTax Bill Queries	PTax Home Owner Grant Adjustment									8	3						3	9	7	11		2		6	2	2			7	3	2	2		3		4	5		1			11	5	7	2	1	1	5	2	1	1		2	14	10	1	4	2	1		2	1	
+	FIN Revenue	PTax Bill Queries	PTax Payment Adjustment							65	42	102	11	49	132	43	17	5	5	55	33	14	12	15	10	51	164	24	29	14	31	65	22	18	9	9	14	38	125	8	7	12	10	136	30	9	11	11	9	57	129	7	9	4	18	107	28	20	10	9	13	59	141	29	
+	FIN Revenue	PTax Bill Queries	PTax Tax Instalment Pre-Payment Plan Adjustment							1	4	5	1	1	3	2		2	1	2	2	1					2	2											2		2	5				4		1			1			1				1		1			1		
+	FIN Revenue	PTax General Information	PTax Access Code									4	4	4	1			3	2	19	7	4	2	4		1	1	1		1	9	8	8		3	1			2	3	1		3	15	2	5	5	3	1	3	7	1		1	9	14	7	3		1	7	1	1		
+	FIN Revenue	PTax General Information	PTax Home Owner Grant Claim SR																12	41	7	3	1	1	1		1		1		14	9	3	1		1	1	2	2	2	2		4	10	2	3		1		1	1				3	7	2	1		1		1	1		
+	FIN Revenue	PTax General Information	PTax Tax Sale Property Adjustment										1		1																									1																							1		
+	FIN Revenue	PTax Miscellaneous	PTax Miscellaneous Cases										2	24	7			3																																															
+	FIN Revenue	UT Bill Queries	UT Payment Adjustment								16	30	23	13	20	13	17	10	16	19	7	16	17	7	11	17	17	10	12	3	16	20	19	23	17	6	7	13	14	19	6	13	8	11	10	14	9	25	15	15	19	12	8	10	9	22	11	11	23	16	6	7	18	18	
+	FIN Revenue	UT Bill Queries	UT Penalty																		2	1						1								1	1						1													1									
+	FIN Revenue	UT Bill Queries	UT UPAWS																			1					2			1						1	2																		3							1	1		
+	FIN Revenue	UT General Information	UT Application Form UPAWS																																					1		1	1	1											1										
+	FIN Revenue	UT General Information	UT Special meter Reading												3	9	18	11	16	8	13	16	11	5	14	17	8	12	15	18	13	14	26	13	21	12	14	16	22	10	8	9	8	12	9	10	9	12	12	6	10	16	9	11	18	10	22	21	21	26	23	16	21	9	
+	FIN Revenue	UT General Information	UT Special Meter Reading Cancellation																																							4																		1		1	1		
+	Interdepartmental Initiatives	Compulsive Hoarding	Hoarding Concern Case - Fire																																									3	6	4	21	7	8		4	10	13	21	14	15	15	12	14	20	9	14	5	12	
+	Interdepartmental Initiatives	Compulsive Hoarding	Hoarding Inquiry Case - Inspections																																									3	1	5	6	5	2	4	9	8	7	20	11	11	14	8	10	27	6	2	9	19	
+	Interdepartmental Initiatives	Snow Angel Program	Snow Angel Program - Community Group Volunteer																																		2	4	2																										
+	Interdepartmental Initiatives	Snow Angel Program	Snow Angel Program - Feedback/General Inquiry																																		11	2	5	2																			1	1	1	3			
+	Interdepartmental Initiatives	Snow Angel Program	Snow Angel Program - Individual Volunteer																																		5	11	6	1	1								1	7												7	1	2	
+	Interdepartmental Initiatives	Snow Angel Program	Snow Angel Program - Nomination																																				1											1															
+	Interdepartmental Initiatives	Snow Angel Program	Snow Angel Program - Resident																																		20	48	87	2									10	25	1									2	1	39	1	15	
+	Knowledge Management	Knowledge	Escalated Question	39	18	19	17	154	180	101	105	139	84	57	83	72	72	66	50	52	68	53	35	28	32	23	40	57	96	91	71	56	53	53	57	64	52	18	29	49	43	48	66	57	61	64	57	43	31	16	23	26	33	26	30	33	65	37	14	22	11	3	9	4	
+	Knowledge Management	Knowledge	Knowledge Solution	1								1					2		1													1																																	
+	PRB - Administration	General Park Board Information	PRB_Park Ranger SR																																						22	57	67	62	138	71	97	66	55	21	45	43	74	68	101	118	173	203	136	108	70	45	66	53	
+	PRB - Planning and Operations	Park Maintenance	Park Maintenance Request					67	69	31	3		1	3	1																							2																											
+	PRB - Planning and Operations	Park Trees	Tree Incident	7									1																																																				
+	PRB - Planning and Operations	Street Trees	Chafer Beetle Feedback																														10			1	3			3	2	2	1	1	2	2		1	1	1			5	2		1	1		1	4	1	1	2	5	
+	PRB - Planning and Operations	Street Trees	Street Tree Work Request SR															164	684	602	863	606	493	373	361	172	215	224	210	289	352	516	618	628	572	381	584	185	195	279	343	247	462	536	605	584	513	513	324	587	297	234	331	515	646	663	824	724	569	522	307	206	268	307	
+	PRB - Planning and Operations	Vegetation	Vegetation Maintenance SR																																															4	5	6	9	25	39	62	57	46	20	33	14	5	14	20	
+	Public Safety - Fire	Communications	Home Safety Check Request Case																																														3			2			1		2	1	1	5		1	1	2	
+	Public Safety - Fire	Emergency Services	Tower Crane Inspection Inquiry Case																																																	2	5	1	1		1	1		1	1	1	2		
+	Public Safety - Fire	Emergency Services	Tower Crane Inspection Request Case																																																	3	7	11	9	7	4	10	2		4	2	7	4	
+	Public Safety - Fire	Prevention	Fire Reinspection Request for Firehall																											29	46	58	58	81	60	70	104	59	137	155	292	194	167	117	104	145	147	270	130	74	78	139	174	192	184	110	147	113	150	136	129	74	119	75	
+	Public Safety - Fire	Prevention	Fire Reinspection Request for Inspector																											8	7	6	4	9	7	10	7	3	9	20	24	33	28	14	6	8	19	5	13	9	6	7	15	18	20	11	11	8	15	13	4	7	5	7	
+	Public Safety - Fire	Prevention	Fire Safety Hazards	2	2		1	2		1	1	2	1	2		2		1	2	2	4	2	5	2	2	1	5	2	3	1	5	5	4	8	6	3	2	2	3	3	4	1	8	6	3	5	7	7	2	7	6	13	14	9	4	14	12	10	7	8	8	6	4	5	
+	Public Safety - Fire	Prevention	FPB_General Inquiry Case																																														15	14	18	17	12	19	23	22	19	22	13	18	12	11	30	20	
+	Public Safety - Fire	Prevention	FPB_Rental Property Violation Case																																																1	5							1					1	
+	Public Safety - Police	Information Management	VPD FARP Inquiry to FARP Office SR																																																												15	42	
+	Public Safety - Police	Information Management	VPD FARP Inquiry to RS SR																																																												38	401	
+	ZZ OLD Interdepartmental Initiatives	Snow Angel Program	Snow Angel Program - Resident																																	1																													
+	ZZ OLD Interdepartmental Initiatives	Snow Angel Program	Snow Angel Program - Volunteer																																	1																													

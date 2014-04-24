@@ -18,4 +18,32 @@ describe("XML parser",function(done){
                  done();
         });
     });
+    it ("Should test Test1.xml file (should be ok)",function(done){
+        GenericParser("xml").parse(__dirname + "/files/input/gestion_erreur/Test1.xml", false, function(result, index) {
+    var stream = fs.createWriteStream(__dirname+"/../test/files/output/Test1_xml.json");
+    stream.write(JSON.stringify(result));
+    done();
+	});
+    });
+    it ("Should test Test2.xml file (should fail)",function(done){
+        GenericParser("xml").parse(__dirname + "/files/input/gestion_erreur/Test2.xml", false, function(result, index) {
+    var stream = fs.createWriteStream(__dirname+"/../test/files/output/Test2_xml.json");
+    stream.write(JSON.stringify(result));
+    done();
+	});
+    });
+    it ("Should test Test3.xml file (should fail)",function(done){
+        GenericParser("xml").parse(__dirname + "/files/input/gestion_erreur/Test3.xml", false, function(result, index) {
+	    var stream = fs.createWriteStream(__dirname+"/../test/files/output/Test3_xml.json");
+	    stream.write(JSON.stringify(result));
+	    done();
+        });
+    });
+    it ("Should test Test4.xml3 file (should fail)",function(done){
+        GenericParser("xml").parse(__dirname + "/files/input/gestion_erreur/Test4.xml3", false, function(result, index) {
+            var stream = fs.createWriteStream(__dirname+"/../test/files/output/Test4_xml.json");
+            stream.write(JSON.stringify(result));
+            done();
+        });
+    });
 });

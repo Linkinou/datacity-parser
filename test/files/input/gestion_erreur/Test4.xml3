@@ -1,0 +1,70 @@
+<dataGov>
+	<basic>
+		<uniqueId>FOR PMO USE ONLY</uniqueId>
+		<userGeneratedId>6</userGeneratedId>
+		<title>EPA Geospatial Data Download: Facility and Site Information</title>
+		<datasetGroupName>OEI Other Non Geo</datasetGroupName>
+		<description>Contains informaiton about facilities or sites subject to environmental regulation, including key facility information along with associated environmental interests for use in mapping and reporting applications.</description>
+		<agencyName>Environmental Protection Agency</agencyName>
+		<agencyShortName>EPA</agencyShortName>
+		<subAgencyName>Office of Environmental Information</subAgencyName>
+		<subAgencyShortName>OEI</subAgencyShortName>
+		<contactName>David Smith </contactName>
+		<contactPhoneNumber>202.566.0797</contactPhoneNumber>
+		<contactEmailAddress>smith.davidg@epa.gov</contactEmailAddress>
+		<agencyResponsibleForQuality>U.S. Environmental Protection Agency</agencyResponsibleForQuality>
+		<complianceWithAgencysQualityGuidelines>Yes</complianceWithAgencysQualityGuidelines>
+		<privacyAndConfidential>Not Relevant</privacyAndConfidential>
+		<dataGovCatalogType>Raw Data Catalog</dataGovCatalogType>
+		<subjectArea>Geography and Environment</subjectArea>
+		<specializedDataCategoryDesignation>Administrative</specializedDataCategoryDesignation>
+		<keywords>FRS, EPA, CERCLIS, NEPT, NPDES, PCS, RCRA, RCRAInfo, Superfund, NPL, TRI, regulated sites, toxic release, major discharges, brownfields, federal data download, national priorities list, public health, environment, federal datasets, kmz, xml, shapefile, sites, facilities</keywords>
+		<dateReleased>1/17/2007</dateReleased>
+		<dateUpdated>4/16/2009</dateUpdated>
+		<agencyProgramUrl>http://www.epa.gov/enviro</agencyProgramUrl>
+		<agencyDataSeriesUrl>http://www.epa.gov/enviro/geo_data.html</agencyDataSeriesUrl>
+		<collectionMode>Other</collectionMode>
+		<frequency>Continuous, updated as facility information is updated, added and changed</frequency>
+		<periodOfCoverage>Data describes facilities currently regulated under multiple EPA programs</periodOfCoverage>
+		<unitOfAnalysis>A facility regulated by one or more programs of the EPA</unitOfAnalysis>
+		<geographicScope>United States</geographicScope>
+		<geographicGranularity>Coordinate Pair (latitude / longitude)</geographicGranularity>
+		<referenceForTechnicalDocumentation>http://www.epa.gov/enviro/html/frs_demo/geospatial_data/resources.html</referenceForTechnicalDocumentation>
+		<dataDictionaryVariableList>Included with data download</dataDictionaryVariableList>
+		<dataCollectionInstrument>n/a</dataCollectionInstrument>
+		<bibliographicCitationForDataset>http://www.epa.gov/enviro/geo_data.html</bibliographicCitationForDataset>
+		<numberDatasetsRepresentedByThisSubmission>1</numberDatasetsRepresentedByThisSubmission>
+		<additionalMetadata>Included with data download</additionalMetadata>
+		<datasetUseRequiresLicense>No</datasetUseRequiresLicense>
+		<datasetLicenseAgreementUrl>NA</datasetLicenseAgreementUrl>
+	</basic>
+	<downloadableFile>
+		<accessPoint>http://www.epa.gov/enviro/html/frs_demo/geospatial_data/EPAShapefileDownload.zip</accessPoint>
+		<mediaFormat>Shapefile</mediaFormat>
+		<fileSize>13.9</fileSize>
+		<fileFormat>Shapefile</fileFormat>
+	</downloadableFile>
+	<statisticalMethodology>
+		<sampling>NULL</sampling>
+		<estimation></estimation>
+		<weighting>NULL</weighting>
+		<disclosureAvoidance>NULL</disclosureAvoidance>
+		<questionnaireDesign>NULL</questionnaireDesign>
+		<seriesBreaks>NULL</seriesBreaks>
+		<nonResponseAdjustment></nonResponseAdjustment>
+		<seasonalAdjustment></seasonalAdjustment>
+		<dataQuality>NULL</dataQuality>
+	</statisticalMethodology>
+	<ogd>
+		<ogdSubmission>NULL</ogdSubmission>
+		<listedInOpenGov></listedInOpenGov>
+		<highValue></highValue>
+		<whyHighValue></whyHighValue>
+		<howNew></howNew>
+	</ogd>
+	<gdg>
+		<id></id>
+		<contentType>Downloadable Data</contentType>
+	</gdg>
+</dataGov>
+
